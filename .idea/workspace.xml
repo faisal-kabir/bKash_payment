@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5dfe108-1a84-44e0-b03f-ede2314aac25" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qVhecndffsBXJbWAvxMEabnBDJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5dfe108-1a84-44e0-b03f-ede2314aac25" name="Default Changelist" comment="" />
+      <created>1617170760103</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617170760103</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="730" y="305" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617171417407">
+      <screen x="65" y="23" width="1855" height="1057" />
+    </state>
+    <state x="730" y="305" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/65.23.1855.1057/1920.220.1366.745@65.23.1855.1057" timestamp="1617171417407" />
+    <state width="1813" height="282" key="GridCell.Tab.0.bottom" timestamp="1617172795144">
+      <screen x="65" y="23" width="1855" height="1057" />
+    </state>
+    <state width="1813" height="282" key="GridCell.Tab.0.bottom/65.23.1855.1057/1920.220.1366.745@65.23.1855.1057" timestamp="1617172795144" />
+    <state width="1813" height="282" key="GridCell.Tab.0.center" timestamp="1617172795143">
+      <screen x="65" y="23" width="1855" height="1057" />
+    </state>
+    <state width="1813" height="282" key="GridCell.Tab.0.center/65.23.1855.1057/1920.220.1366.745@65.23.1855.1057" timestamp="1617172795143" />
+    <state width="1813" height="282" key="GridCell.Tab.0.left" timestamp="1617172795143">
+      <screen x="65" y="23" width="1855" height="1057" />
+    </state>
+    <state width="1813" height="282" key="GridCell.Tab.0.left/65.23.1855.1057/1920.220.1366.745@65.23.1855.1057" timestamp="1617172795143" />
+    <state width="1813" height="282" key="GridCell.Tab.0.right" timestamp="1617172795143">
+      <screen x="65" y="23" width="1855" height="1057" />
+    </state>
+    <state width="1813" height="282" key="GridCell.Tab.0.right/65.23.1855.1057/1920.220.1366.745@65.23.1855.1057" timestamp="1617172795143" />
+  </component>
+</project>
